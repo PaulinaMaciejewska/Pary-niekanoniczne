@@ -1,0 +1,10 @@
+GNRA: 
+
+UNCG:
+11 CUUCGG 16
+
+T-loop:
+
+E-loop:
+
+C-loop:
