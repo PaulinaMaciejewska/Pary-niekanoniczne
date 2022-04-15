@@ -2,7 +2,7 @@
 
 program do wyszukiwania motywu:
 
-GNRA  
+GNRA
 UNCG
 T-loop 
 E-loop 
